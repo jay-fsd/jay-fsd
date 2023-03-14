@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jay-fsd
 - 👀 I’m interested in IT.
-- 🌱 I’m currently learning Python and deep cloud computing.
 - 💞️ Nice to see you.
 - 📫 Have a good day.
 
